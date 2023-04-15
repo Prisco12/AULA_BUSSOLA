@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "6439efb2676216ad41fdb80e",
+    "name": "Iphone 11",
+    "quantify": 30,
+    "price": 3,
+    "createdAt": "2023-04-15T00:28:34.089Z",
+    "updatedAt": "2023-04-15T00:28:34.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb80c",
+    "name": "Iphone 13",
+    "quantify": 2,
+    "price": 5,
+    "createdAt": "2023-04-15T00:28:34.089Z",
+    "updatedAt": "2023-04-15T00:28:34.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb80d",
+    "name": "Iphone 12",
+    "quantify": 1,
+    "price": 4,
+    "createdAt": "2023-04-15T00:28:34.089Z",
+    "updatedAt": "2023-04-15T00:28:34.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb80f",
+    "name": "Iphone X",
+    "quantify": 23,
+    "price": 2,
+    "createdAt": "2023-04-15T00:28:34.089Z",
+    "updatedAt": "2023-04-15T00:28:34.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb812",
+    "name": "Iphone 7",
+    "quantify": 345,
+    "price": 1,
+    "createdAt": "2023-04-15T00:28:34.090Z",
+    "updatedAt": "2023-04-15T00:28:34.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb813",
+    "name": "Iphone 6",
+    "quantify": 9,
+    "price": 900,
+    "createdAt": "2023-04-15T00:28:34.090Z",
+    "updatedAt": "2023-04-15T00:28:34.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb814",
+    "name": "Iphone 5",
+    "quantify": 87,
+    "price": 600,
+    "createdAt": "2023-04-15T00:28:34.090Z",
+    "updatedAt": "2023-04-15T00:28:34.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb810",
+    "name": "Iphone XR",
+    "quantify": 12,
+    "price": 2,
+    "createdAt": "2023-04-15T00:28:34.089Z",
+    "updatedAt": "2023-04-15T00:28:34.089Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efb2676216ad41fdb811",
+    "name": "Iphone 8",
+    "quantify": 0,
+    "price": 2,
+    "createdAt": "2023-04-15T00:28:34.090Z",
+    "updatedAt": "2023-04-15T00:28:34.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3321",
+    "name": "Iphone 14",
+    "quantify": 3,
+    "price": 6,
+    "createdAt": "2023-04-15T00:29:27.569Z",
+    "updatedAt": "2023-04-15T00:29:27.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3322",
+    "name": "Iphone 13",
+    "quantify": 2,
+    "price": 5,
+    "createdAt": "2023-04-15T00:29:27.569Z",
+    "updatedAt": "2023-04-15T00:29:27.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3323",
+    "name": "Iphone 12",
+    "quantify": 1,
+    "price": 4,
+    "createdAt": "2023-04-15T00:29:27.569Z",
+    "updatedAt": "2023-04-15T00:29:27.569Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3326",
+    "name": "Iphone XR",
+    "quantify": 12,
+    "price": 2,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3327",
+    "name": "Iphone 8",
+    "quantify": 0,
+    "price": 2,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3328",
+    "name": "Iphone 7",
+    "quantify": 345,
+    "price": 1,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3329",
+    "name": "Iphone 6",
+    "quantify": 9,
+    "price": 900,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de332a",
+    "name": "Iphone 5",
+    "quantify": 87,
+    "price": 600,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3324",
+    "name": "Iphone 11",
+    "quantify": 30,
+    "price": 3,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6439efe79834ae8292de3325",
+    "name": "Iphone X",
+    "quantify": 23,
+    "price": 2,
+    "createdAt": "2023-04-15T00:29:27.570Z",
+    "updatedAt": "2023-04-15T00:29:27.570Z",
+    "__v": 0
+  }
+]
