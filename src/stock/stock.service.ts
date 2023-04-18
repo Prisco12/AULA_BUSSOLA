@@ -8,13 +8,13 @@ export class StockService {
         const product = await ProductModel.find()
 
         const result = product.map(item => {
-           const productStock = {
+           const stock = {
                 name: item.name,
                 quantify: item.quantify,
                 price: item.price,
                 stockValue: item.price * item.quantify
             }
-            return productStock
+            return stock
         })
 
         return StockModel.create(result)
